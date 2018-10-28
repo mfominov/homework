@@ -1,0 +1,6 @@
+---
+
+- hosts: all
+  become: yes
+  roles:
+    - { role: nginx, http_port: "8080" }

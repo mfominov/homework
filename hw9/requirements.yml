@@ -1,0 +1,5 @@
+- src: https://github.com/mfominov/ansible-nginx.git
+  name: nginx
+  version: otuslinux
+  scm: git
+  path: roles
