@@ -4,4 +4,4 @@ Homework 9
 Ansible role nginx install
 ========================
 
-* vagrant up
+* HTTP_PORT=[any port|| default 8080] vagrant up
